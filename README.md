@@ -7,8 +7,5 @@
 
 🔻 You can use Markdown to format your README file. Markdown is a lightweight markup language that allows you to write formatted text using plain text syntax. You can learn more about Markdown at [https://www.markdownguide.org/](https://www.markdownguide.org/).
 
-## Test repo for the Version Control Essentials course.
 
-🌍 Hello World! --- IGNORE ---
-
-This is the change I wanted!!!
+🌍 Hello World! 
